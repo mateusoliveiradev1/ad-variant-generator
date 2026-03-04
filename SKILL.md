@@ -1,6 +1,6 @@
 ---
 name: Ad Creative Variant Generator — Persona-Mapped Copy Validation Engine
-description: Analyze, Orchestrate, and Validate operations to: Synthesizes 3 structured ad copy variants (Fear, Gain, Logic hooks) mapped to a specific buyer persona, then deterministically validates every character against platform limits (Meta, LinkedIn, X) using Python before outputting a ready-to-upload Variant Matrix. ROI: eliminates manual character counting and ensures zero platform-rejected copy submissions.
+description: "Analyze, Orchestrate, and Validate operations to: Synthesizes 3 structured ad copy variants (Fear, Gain, Logic hooks) mapped to a specific buyer persona, then deterministically validates every character against platform limits (Meta, LinkedIn, X) using Python before outputting a ready-to-upload Variant Matrix. ROI: eliminates manual character counting and ensures zero platform-rejected copy submissions."
 ---
 
 # 🎯 Goal
